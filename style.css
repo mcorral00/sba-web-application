@@ -21,7 +21,7 @@ html, body {
 
 .slideshow {
     flex: 1;
-    background-color: rgb(16, 1, 78);
+    background-color: rgb(12, 1, 57);
     position: relative;
     overflow: hidden;
 }
