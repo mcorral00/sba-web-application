@@ -1,3 +1,4 @@
+
 // fetch breed list
 async function start() {
   const response = await fetch("https://dog.ceo/api/breeds/list/all");
@@ -60,4 +61,4 @@ function createSlideshow(images) {
 }
 
 // need to clear interval 
-// need to remove first set of images 
+// need to remove first set of images so it doesnt overlap when another dog breed is selected
